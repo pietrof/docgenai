@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "docgenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\pietr\\source\\repos\\sqlparsergpt"
+    }
+  }
+}
